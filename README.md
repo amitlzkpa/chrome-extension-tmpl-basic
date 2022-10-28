@@ -1,1 +1,4 @@
-#chrome-extension-tmpl-basic\n
+# chrome-extension-tmpl-basic
+
+Starter pack for chrome extensions.
+
