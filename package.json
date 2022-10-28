@@ -1,0 +1,20 @@
+{
+  "name": "chrome-extension-tmpl-basic",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "echo This is a static template, there is no bundler or bundling involved!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitlzkpa/chrome-extension-tmpl-basic.git"
+  },
+  "keywords": [],
+  "author": "amitlzkpa",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}

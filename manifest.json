@@ -1,0 +1,11 @@
+{
+  "name": "chrome-extension-tmpl-basic",
+  "version": "0.0.1",
+  "description": "chrome-extension-tmpl-basic",
+  "manifest_version": 3,
+  "author": "amitlzkpa",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Google Chrome"
+  }
+}
